@@ -1,5 +1,5 @@
 
-const $ = new Env("交汇点新闻")
+const $ = new Env("交汇点")
 */
 const _0x26ed7a = _0x32ed,
     _0x3cc667 = _0x8319;
