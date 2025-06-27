@@ -1,4 +1,4 @@
-//Fri Jun 27 2025 01:07:26 GMT+0000 (Coordinated Universal Time)
+//Fri Jun 27 2025 01:09:55 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var 哇哈哈_0x51461b = "jsjiami.com.v7";
