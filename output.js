@@ -1,4 +1,4 @@
-//Wed Dec 17 2025 10:20:44 GMT+0000 (Coordinated Universal Time)
+//Wed Dec 17 2025 12:41:38 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("掌心临海");
